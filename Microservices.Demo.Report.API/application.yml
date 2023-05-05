@@ -1,5 +1,7 @@
+ServicesUrl:
+    PricingApiUrl: http://Microservices.Demo.Pricing.API/api/pricing  
 ElasticApm:
     SecretToken: 
     ServerUrls: http://microservices.demo.apm-server:8200
-    ServiceName: Microservices.Demo.Report.API
+    ServiceName: Microservices.Demo.Policy.API
     Environment: production
